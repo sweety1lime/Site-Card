@@ -1,0 +1,9 @@
+buka,111,byaka@mail.ru
+byaka,qwer,aka@aye.ru
+daniilseryak,qwer,seryakushka@bk.ru,Dota
+buka,,seryakushka@bk.ru,123
+qwery,123,123@mail.ru,123
+Daniil,qwerty,Danil@mail.ru,Dota2
+Jopa,123,Jopa_Osla@mail.ru,Jepa
+NeJopa,321,NeOsla,Shrek
+Круто,в мпт,ТыПопал@mail.ru,Ты студент

@@ -1,0 +1,424 @@
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\ZXC.dll.config
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\ZXC.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\ZXC.pdb
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\csc.exe
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\csc.exe.config
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\csc.rsp
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\csi.exe
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\csi.exe.config
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\csi.rsp
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\System.AppContext.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\System.Console.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\vbc.exe
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\vbc.exe.config
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\vbc.rsp
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\Antlr3.Runtime.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\Newtonsoft.Json.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\System.Web.Helpers.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\System.Web.Mvc.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\System.Web.Optimization.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\System.Web.Razor.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\System.Web.WebPages.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\WebGrease.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\System.Web.Helpers.xml
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\System.Web.Mvc.xml
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\System.Web.Optimization.xml
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\System.Web.Razor.xml
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\System.Web.WebPages.xml
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\Newtonsoft.Json.xml
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\Antlr3.Runtime.pdb
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\obj\Debug\ZXC.csprojAssemblyReference.cache
+C:\Users\Karto\source\repos\ZXC\ZXC\obj\Debug\ZXC.csproj.CoreCompileInputs.cache
+C:\Users\Karto\source\repos\ZXC\ZXC\obj\Debug\ZXC.csproj.CopyComplete
+C:\Users\Karto\source\repos\ZXC\ZXC\obj\Debug\ZXC.dll
+C:\Users\Karto\source\repos\ZXC\ZXC\obj\Debug\ZXC.pdb
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\ZXC.dll.config
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\ZXC.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\ZXC.pdb
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\csc.exe
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\csc.exe.config
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\csc.rsp
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\csi.exe
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\csi.exe.config
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\csi.rsp
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\System.AppContext.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\System.Console.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\vbc.exe
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\vbc.exe.config
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\vbc.rsp
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\Antlr3.Runtime.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\Newtonsoft.Json.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\System.Web.Helpers.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\System.Web.Mvc.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\System.Web.Optimization.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\System.Web.Razor.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\System.Web.WebPages.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\WebGrease.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\System.Web.Helpers.xml
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\System.Web.Mvc.xml
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\System.Web.Optimization.xml
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\System.Web.Razor.xml
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\System.Web.WebPages.xml
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\Newtonsoft.Json.xml
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\Antlr3.Runtime.pdb
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\obj\Debug\ZXC.csprojAssemblyReference.cache
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\obj\Debug\ZXC.csproj.CopyComplete
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\obj\Debug\ZXC.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\obj\Debug\ZXC.pdb
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\ZXC.dll.config
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\ZXC.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\ZXC.pdb
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\csc.exe
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\csc.exe.config
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\csc.rsp
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\csi.exe
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\csi.exe.config
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\csi.rsp
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\System.AppContext.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\System.Console.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\vbc.exe
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\vbc.exe.config
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\vbc.rsp
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\Antlr3.Runtime.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\Newtonsoft.Json.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\System.Web.Helpers.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\System.Web.Mvc.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\System.Web.Optimization.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\System.Web.Razor.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\System.Web.WebPages.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\WebGrease.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\System.Web.Helpers.xml
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\System.Web.Mvc.xml
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\System.Web.Optimization.xml
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\System.Web.Razor.xml
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\System.Web.WebPages.xml
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\Newtonsoft.Json.xml
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\Antlr3.Runtime.pdb
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\obj\Debug\ZXC.csprojAssemblyReference.cache
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\obj\Debug\ZXC.csproj.CopyComplete
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\obj\Debug\ZXC.dll
+C:\Users\Sajeruk\Downloads\ZXC\ZXC\ZXC\obj\Debug\ZXC.pdb
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\ZXC.dll.config
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\ZXC.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\ZXC.pdb
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\csc.exe
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\csc.exe.config
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\csc.rsp
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\csi.exe
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\csi.exe.config
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\csi.rsp
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\System.AppContext.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\System.Console.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\vbc.exe
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\vbc.exe.config
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\vbc.rsp
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\Antlr3.Runtime.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\Newtonsoft.Json.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\System.Web.Helpers.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\System.Web.Mvc.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\System.Web.Optimization.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\System.Web.Razor.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\System.Web.WebPages.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\WebGrease.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\System.Web.Helpers.xml
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\System.Web.Mvc.xml
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\System.Web.Optimization.xml
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\System.Web.Razor.xml
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\System.Web.WebPages.xml
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\Newtonsoft.Json.xml
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\Antlr3.Runtime.pdb
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\obj\Debug\ZXC.csprojAssemblyReference.cache
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\obj\Debug\ZXC.csproj.CopyComplete
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\obj\Debug\ZXC.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\obj\Debug\ZXC.pdb
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\BouncyCastle.Crypto.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\MailKit.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\MimeKit.dll
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\BouncyCastle.Crypto.xml
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\MailKit.xml
+C:\Users\Danil\OneDrive\Рабочий стол\ZXC\ZXC\ZXC\bin\MimeKit.xml
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\ZXC.dll.config
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\ZXC.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\ZXC.pdb
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\csc.exe
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\csc.exe.config
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\csc.rsp
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\csi.exe
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\csi.exe.config
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\csi.rsp
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\System.AppContext.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\System.Console.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\vbc.exe
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\vbc.exe.config
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\vbc.rsp
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\Antlr3.Runtime.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\BouncyCastle.Crypto.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\MailKit.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\MimeKit.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\Newtonsoft.Json.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\System.Web.Helpers.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\System.Web.Mvc.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\System.Web.Optimization.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\System.Web.Razor.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\System.Web.WebPages.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\WebGrease.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\BouncyCastle.Crypto.xml
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\MailKit.xml
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\MimeKit.xml
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\System.Web.Helpers.xml
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\System.Web.Mvc.xml
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\System.Web.Optimization.xml
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\System.Web.Razor.xml
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\System.Web.WebPages.xml
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\Newtonsoft.Json.xml
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\Antlr3.Runtime.pdb
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\obj\Debug\ZXC.csprojAssemblyReference.cache
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\obj\Debug\ZXC.csproj.CopyComplete
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\obj\Debug\ZXC.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\obj\Debug\ZXC.pdb
+C:\Users\Danil\OneDrive\Рабочий стол\Программирование\ZXC\ZXC\ZXC\obj\Debug\ZXC.csproj.CoreCompileInputs.cache

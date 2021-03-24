@@ -1,0 +1,44 @@
+﻿@model ZXC.Models.EEE_cLASS
+@{
+    Layout = null;
+    var result = "";
+
+    var dataFile = Server.MapPath("~/Information/UserData.txt");
+
+
+    var Name = Convert.ToString(Html.DisplayFor(x => x.login));
+    var Password =Convert.ToString( Html.DisplayFor(x => x.password));
+    var Email =Convert.ToString( Html.DisplayFor(x => x.email));
+    var Secret =Convert.ToString( Html.DisplayFor(x => x.secret_word));
+    if (Name != "" && Password !="" && Email !="" && Secret!="" )
+    {
+
+        var userData1 = Name + "," + Password + "," + Email + "," + Secret + Environment.NewLine;
+
+        var dataFile1 = Server.MapPath("~/Information/UserData.txt");
+        File.AppendAllText(@dataFile, userData1);
+        result = "Information saved.";
+    }
+
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        Информатион = @Name
+        Маил = @Email
+        Пэссворд = @Password
+        СекретВорд = @Secret
+
+
+
+    </div>
+
+</body>
+</html>

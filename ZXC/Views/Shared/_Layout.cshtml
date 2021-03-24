@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>@ViewBag.Title</title>
+    
+    @RenderSection("Scripts1", required: true)
+    
+</head>
+<body oncontextmenu="return false" onselectstart="return false" onselect="return false" oncopy="return false" ondragstart="return false" ondrag="return false" onbeforeprint="document.body.style.visibility = 'hidden'; alert('Wydruk jest niedostÄ™pny!')" onafterprint="document.body.style.visibility = 'visible'" style="color: white;overflow:hidden;" onkeypress="" return="" disablectrlkeycombination(event);"="" onkeydown="return disableCtrlKeyCombination(event);">
+    
+    
+        <div class="mask">
+            <div class="overlay">
+                <!-- PRELOADER -->
+                <div id="preloader">
+                    <div class="loading">
+                        <div class="loader"></div>
+                    </div>
+                </div>
+
+                <!-- HEADER -->
+                @RenderSection("HEADER", required: true)
+                <!-- PARTICLES -->
+                <div id="particles-js"></div>
+
+                <!-- HOME -->
+                @RenderSection("Home", required: true)
+
+                <!-- FOOTER -->
+                @RenderSection("FOOTER", required: true)
+            </div>
+        </div>
+    
+    <!-- SCRIPTS -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <script src="~/Scripts/typewriter.js"></script>
+    <script src="~/Scripts/particles.min.js"></script>
+    <script src="~/Scripts/app.js"></script>
+    <script src="~/Scripts/title.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,97 @@
+﻿
+@{
+    ViewBag.Title = "H U R R A";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section Scripts1{
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+    <link href="~/Content/font-awesome.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link href="~/Content/style2.css" rel="stylesheet" />
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="~/Scripts/jquery-2.1.0.min.js"></script>
+    <script src="~/Scripts/main.js"></script>
+    <script src="~/Scripts/preloader.js"></script>
+    <script src="~/Scripts/test.js"></script>
+}
+
+@section Home{
+    
+    <div class="container home">
+        <div>
+            <video id="player" src='~/Video/1.mp4' class="videoarea" autoplay loop >
+                <!--<source class="source" src="~/Video/1.mp4" type="video/mp4" />-->
+            </video>
+        </div>
+
+        <div class="typer">
+            <h1 class="typewrite" data-period="2000" data-type='["Join us  ", "or you will lose"]'> <span class="wrap"></span></h1>
+        </div>
+    </div>
+}
+@section HEADER{
+    <div class="container-fluid">
+        <div class="row">
+            <nav class="navbar navbar-default header">
+                <div class="container">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" href="javascript:window.location.reload(true)">
+                            <img src="~/Img/logo.ico" />
+                        </a>
+                    </div>
+                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                        <ul class="nav navbar-nav navbar-right">
+                            <li><a href="javascript:window.location.reload(true)">Home</a></li>
+                            <li><a href="https://vk.com/poshli_naxui" target="_blank">Creator</a></li>
+                            <li class="dropdown">
+                                <a href="index.html#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Member <span class="caret"></span></a>
+                                <ul class="dropdown-menu">
+                                    <li>@Html.ActionLink("Shine", "Shine")</li>
+                                    <li role="separator" class="divider"></li>
+                                    <li>@Html.ActionLink("Coming soon","DivideError")</li>
+                                    <li role="separator" class="divider"></li>
+                                    <li>@Html.ActionLink("Coming soon", "DivideError")</li>
+                                    <li role="separator" class="divider"></li>
+                                    <li>@Html.ActionLink("Coming soon", "DivideError")</li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </div>
+}
+@section FOOTER{
+    <div id="footer">
+        <footer id="copyright">
+            <a href="https://vk.com/poshli_naxui" target="_blank">
+                <p>Made with <i class="fa fa-heart" style="color: #F62459;" aria-hidden="true"></i> by <span style="color: #fff; opacity: 1;">JluMoH4eG</span></p>
+            </a>
+            <div style="position: absolute; bottom: 10px; right: 10px;">
+                <script type="text/javascript">
+                    function getDate() {
+                        var date = new Date();
+                        var hours = date.getHours();
+                        var minutes = date.getMinutes();
+                        var seconds = date.getSeconds();
+                        //По надобности условие ниже повторить с minutes и hours
+                        if (seconds < 10) {
+                            seconds = '0' + seconds;
+                        }
+                        document.getElementById('timedisplay').innerHTML = hours + ':' + minutes + ':' + seconds;
+                    }
+                    setInterval(getDate, 0);
+                </script>
+                <font size=5 face="Impact"> <div id="timedisplay"></div></font>
+            </div>
+        </footer>
+    </div>}
